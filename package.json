@@ -1,9 +1,8 @@
 {
-  "name": "laravel-ide",
+  "name": "ide-laravel",
   "main": "./lib/main",
-  "version": "0.0.0",
   "description": "PHP language support for Atom-IDE.",
-  "repository": "https://github.com/GeneaLabs/laravel-ide",
+  "repository": "https://github.com/GeneaLabs/ide-laravel",
   "license": "MIT",
   "engines": {
     "atom": ">=1.21.0"
