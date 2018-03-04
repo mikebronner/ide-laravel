@@ -1,7 +1,7 @@
 {
   "name": "ide-laravel",
   "main": "./lib/main",
-  "version": "0.6.2",
+  "version": "0.0.1",
   "description": "PHP language support for Atom-IDE.",
   "repository": "https://github.com/GeneaLabs/ide-laravel",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "intelephense-server": "^0.8.8"
   },
   "enhancedScopes": [
-    "source.cs"
+    "source.php"
   ],
   "consumedServices": {
     "linter-indie": {
