@@ -12,7 +12,7 @@
     "intelephense-server": "^0.8.8"
   },
   "enhancedScopes": [
-    "source.php"
+      "text.html.php"
   ],
   "consumedServices": {
     "linter-indie": {
