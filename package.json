@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "atom-languageclient": "^0.8.3",
-    "intelephense-server": "^0.8.8"
+    "intelephense-server": "^0.8.8",
+    "file-url": "*"
   },
   "enhancedScopes": [
-      "text.html.php"
+    "text.html.php"
   ],
   "consumedServices": {
     "linter-indie": {
